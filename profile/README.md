@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-DataInfra is a company dedicated to constructing highly efficient control planes for SAAS Infrastructure.
+Centralised Control Plane for SAAS Infrastructure with unified Management for Shared, Dedicated and BYOC SAAS.
 </p>
 <h3 align="center">
     <b><a href="https://datainfra.io/">Website</a></b>
