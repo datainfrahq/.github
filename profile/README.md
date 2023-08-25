@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Centralised Control Plane for SAAS with unified management for Shared, Dedicated and Private SAAS.
+Centralised Control Plane for SaaS with unified management for Shared, Dedicated and Private SAAS.
 </p>
 <h3 align="center">
     <b><a href="https://datainfra.io/">Website</a></b>
