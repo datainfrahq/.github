@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Centralised Control Plane for SaaS with unified management for Shared, Dedicated and Private SAAS.
+Toolings to run the modern data stack on Kubernetes at scale.
 </p>
 <h3 align="center">
     <b><a href="https://datainfra.io/">Website</a></b>
